@@ -2,6 +2,10 @@
 
 このリポジトリの公開用リポジトリです。  
 https://github.com/aki85/todo-typescript-redux-tutorial
+  
+[sample](https://aki85.github.io/todo-akic/)
+
+[sample for admin](https://aki85.github.io/todo-akic/admin)
 
 ## 環境
 * nodejs: ^12.x
